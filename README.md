@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm interested in learning programming.
+I'm currently working on a project called Hello world! so hard
+I read manga. Do I sound toxic..
 <!--
 **yuden007/yuden007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
